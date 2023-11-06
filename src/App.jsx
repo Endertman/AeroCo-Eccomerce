@@ -1,12 +1,10 @@
 import './App.css'
-import ItemListContainer from './components/ItemListContainer'
-import NavBar from './components/NavBar'
+import Navbar from './components/Navbar'
 
 function App() {
   return (
     <>
-      <NavBar />
-      <ItemListContainer titulo={"GTA V"} />
+      <Navbar/>
     </>
   )
 }
