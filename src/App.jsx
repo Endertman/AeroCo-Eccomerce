@@ -1,5 +1,7 @@
 import './App.css'
-import Navbar from './components/Navbar'
+import Navbar from './components/NavBar/Navbar'
+
+
 
 function App() {
   return (
@@ -7,6 +9,6 @@ function App() {
       <Navbar/>
     </>
   )
-}
+} 
 
 export default App

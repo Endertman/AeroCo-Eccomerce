@@ -1,0 +1,21 @@
+:root {
+    --main-color: #000;
+    --primary-color: #c6c6c6;
+    --secondary-color: #fff;
+    --accent-red: #e32b2b;
+    --accent-green: #00c514;
+    --accent-yellow: #fec600;
+}
+
+@font-face {
+    font-family: 'avalon';
+    src: url('src/assets/fonts/avalon.woff2') format('woff');
+    font-style: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
