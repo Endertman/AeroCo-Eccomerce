@@ -13,6 +13,11 @@
     font-style: none;
 }
 
+body {
+    padding: 0;
+    margin: 0;
+}
+
 /*  font-size & font-weight
     16px = 400
     18px -> 21px = 500 
@@ -23,3 +28,4 @@
 a{
     text-decoration: none;
 }
+

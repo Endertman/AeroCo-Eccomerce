@@ -14,7 +14,7 @@ function AppDiscount(props) {
 export default AppDiscount
 
 const Banner = styled.div`
-  background-color: #000;
+  background-color: var(--accent-green);
 
   a{
     color: black;

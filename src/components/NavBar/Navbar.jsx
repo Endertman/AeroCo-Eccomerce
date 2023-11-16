@@ -10,9 +10,6 @@ function Navbar() {
   }
   return (
     <>
-      <AppDiscountBanner>
-        <a href="">33% DE DESCUENTO EXCLUSIVO EN LA APP</a>     
-      </AppDiscountBanner>
       <NavContainer>
         <a href="index.html">
           <img src="src\assets\img\aeroco_multicolor.svg" alt="Aeroco Logo"/>
@@ -34,22 +31,6 @@ function Navbar() {
 }
 
 export default Navbar
-
-const AppDiscountBanner = styled.div`
-  background-color: var(--accent-green);
-
-  a{
-    color: black;
-    font-size: 1rem;
-    font-family: 'avalon', sans-serif;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center
-  }
-
-`
 
 const NavContainer = styled.nav`
   padding: 2rem;
