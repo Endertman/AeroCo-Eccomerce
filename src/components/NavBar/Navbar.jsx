@@ -1,25 +1,39 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
 import BurguerButton from './BurguerButton'
+import SearchBar from './SearchInput'
+import Cart from './Cart'
 
 function Navbar() {
-
   const [clicked, setClicked] = useState(false)
   const handleClick = () => {
     setClicked(!clicked)
   }
+  
   return (
     <>
       <NavContainer>
-        <a href="index.html">
-          <img src="src\assets\img\aeroco_multicolor.svg" alt="Aeroco Logo"/>
-        </a>
-        <div className={`links ${clicked ? 'active' : ''}`}>
-          <a onClick={handleClick} href="#h">NUEVO</a>
-          <a onClick={handleClick} href="#h">HOMBRE</a>
-          <a onClick={handleClick} href="#h">MUJER</a>
-          <a onClick={handleClick} href="#h">NIÑOS</a>
-          <a onClick={handleClick} href="#h">OFERTAS</a>
+        <div className='logo_container'>
+          <a href="index.html">
+            <img src="src\assets\img\logo\aeroco_multicolor.svg" alt="Aeroco Logo" />
+          </a>
+        </div>
+        <div className='links_container'>
+          <div className={`links ${clicked ? 'active' : ''}`}>
+            <a onClick={handleClick} href="">NUEVO</a>
+            <a onClick={handleClick} href="">HOMBRE</a>
+            <a onClick={handleClick} href="">MUJER</a>
+            <a onClick={handleClick} href="">NIÑOS</a>
+            <a onClick={handleClick} href="">OFERTAS</a>
+          </div>
+        </div>
+        <div className='buttons'>
+          <div className='search_input'>
+            <SearchBar />
+          </div>
+          <div className='cart'>
+            <Cart />
+          </div>
         </div>
         <div className='burguer'>
           <BurguerButton clicked={clicked} handleClick={handleClick} />
@@ -33,24 +47,41 @@ function Navbar() {
 export default Navbar
 
 const NavContainer = styled.nav`
-  padding: 2rem;
+  padding: 1rem;
   background-color: #000;
   display: flex;
   align-items: center;
   justify-content: space-between;
 
   a{
+    text-decoration: none; 
     color: white;
-    text-decoration: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
-    img{
-      height: 40px;
-      margin-left: 1rem;
-    }
+  }
 
+  .logo_container{
+    flex: 1;
+    max-width: 160px;
+
+      a{
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+          img{
+            height: 40px;
+            margin-left: 1rem;
+          }
+      }
+  }
+
+  .links_container{
+    flex: 2;
+    text-align: center; 
+  }
+
+  .buttons{
+    display: flex;
   }
   
   .links{
@@ -100,7 +131,7 @@ const NavContainer = styled.nav`
     a{
       font-size: 2rem;
       margin-top: 1rem;
-      color: black;
+      color: white;
       font-weight: 600; 
     }
   }

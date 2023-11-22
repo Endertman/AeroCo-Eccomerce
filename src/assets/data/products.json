@@ -1,0 +1,133 @@
+[
+    {
+        "id": 1,
+        "item": "Malliot Jumbo Visma - Tour de Francia 2023 The Vélodrome Collection | Hombre",
+        "brand": "jumbo_visma",
+        "name": "velodrome",
+        "gender": "men",
+        "type": "malliot",
+        "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
+        "price": 55.00,
+        "img": 7,
+        "description" : "0"
+    },
+    {
+        "id": 2,
+        "item": "Malliot Jumbo Visma | Hombre",
+        "brand": "jumbo_visma",
+        "name": "jumbo_visma",
+        "gender": "men",
+        "type": "malliot",
+        "size": { "1" : "S" , "2" : "M" , "3" : "L", "4" : "XL"},
+        "price": 45.00,
+        "img": 5,
+        "description" : "0"
+    },
+    {
+        "id": 3,
+        "item": "Malliot Amarillo Tour de Francia 2023 - Jonas Vingegard - Jumbo Visma",
+        "brand": "jumbo_visma",
+        "name": "tour",
+        "gender": "men",
+        "type": "malliot",
+        "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
+        "price": 60.00,
+        "img": 6,
+        "description" : "0"
+    },
+    {
+        "id": 4,
+        "item": "Malliot Jumbo Visma | Mujer",
+        "brand": "jumbo_visma",
+        "name": "jumbo_visma",
+        "gender": "women",
+        "type": "malliot",
+        "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
+        "price": 52.00,
+        "img": 7,
+        "description" : "0"
+    },
+    {
+        "id": 5,
+        "item": "Culotte Jumbo Visma | Mujer",
+        "brand": "jumbo_visma",
+        "name": "jumbo_visma",
+        "gender": "women",
+        "type": "culotte",
+        "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
+        "price": 52.00,
+        "img": 4,
+        "description" : "0"
+    },
+    {
+        "id": 6,
+        "item": "Culotte Jumbo Visma | Hombre",
+        "brand": "jumbo_visma",
+        "name": "jumbo_visma",
+        "gender": "men",
+        "type": "culotte",
+        "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
+        "price": 52.00,
+        "img": 4
+    },
+    {
+        "id": 7,
+        "item": "Malliot largo Jumbo Visma | Hombre",
+        "brand": "jumbo_visma",
+        "name": "jumbo_visma",
+        "gender": "men",
+        "type": "malliot_largo",
+        "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
+        "price": 45.00,
+        "img": 5,
+        "description" : "0"
+    },
+    {
+        "id": 9,
+        "item": "Malliot Jumbo Visma - Tour de Francia 2023 The Vélodrome Collection | Mujer",
+        "brand": "jumbo_visma",
+        "name": "velodrome",
+        "gender": "women",
+        "type": "malliot",
+        "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
+        "price": 55.00,
+        "img": 7,
+        "description" : "0"
+    },
+    {
+        "id": 10,
+        "item": "Malliot Wout Van Aert | Jumbo Visma | Hombre",
+        "brand": "jumbo_visma",
+        "name": "wout",
+        "gender": "men",
+        "type": "malliot",
+        "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
+        "price": 75.00,
+        "img": 7,
+        "description" : "0"
+    },
+    {
+        "id": 11,
+        "item": "Camiseta corta ActiveCotton para mujer - Crudo",
+        "brand": "black_sheep",
+        "name": "crop-top_ecru",
+        "gender": "women",
+        "type": "t-shirt",
+        "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
+        "price": 40.00,
+        "img": 3,
+        "description" : "El ActiveCotton Crop es tu opción versátil, ya que combina un 80 % de algodón peinado suave con un 20 % de poliéster para crear una prenda que se convertirá en tu favorita. Ya sea que estés recorriendo los senderos, el pavimento, el gimnasio o la oficina, esta camiseta promete comodidad, estilo y mucha diversión. No es solo una camiseta."
+    },
+    {
+        "id": 12,
+        "item": "Camiseta corta ActiveCotton para mujer - Verde",
+        "brand": "black_sheep",
+        "name": "crop-top_green",
+        "gender": "women",
+        "type": "t-shirt",
+        "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
+        "price": 40.00,
+        "img": 1,
+        "description" : "El ActiveCotton Crop es tu opción versátil, ya que combina un 80 % de algodón peinado suave con un 20 % de poliéster para crear una prenda que se convertirá en tu favorita. Ya sea que estés recorriendo los senderos, el pavimento, el gimnasio o la oficina, esta camiseta promete comodidad, estilo y mucha diversión. No es solo una camiseta."
+    }
+]
