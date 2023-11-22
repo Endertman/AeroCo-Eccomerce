@@ -1,8 +1,9 @@
 {
     "carrousel_images": [
-      "https://th.bing.com/th/id/R.7dbd475618ede9596808560157b02609?rik=4UpsAHO2yWdk5Q&riu=http%3a%2f%2fwww.coolhdwallpapers.net%2fgallery%2fadidas-logo-black-background-wallpaper.jpg&ehk=nLwErEMDIKps3Cilshtuc469OS295PnDo0K4Wkd15Vw%3d&risl=&pid=ImgRaw&r=0",
-      "https://cdn.goconqr.com/uploads/node/image/75739177/desktop_2c44db60-f1d0-4a3c-a113-7a7ce5c68088.jpg",
-      "https://wallpapercave.com/wp/wp3019240.jpg"
+      "src/assets/img/imgs/tour_de_france-1.webp", 
+      "src/assets/img/imgs/tour_de_france-2.webp", 
+      "src/assets/img/imgs/tour_de_france-3.webp", 
+      "src/assets/img/imgs/vuelta_a_españa-1.webp"
     ]
 
   }

@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
-// const data = require('../assets/data/data.json');
 
 function Carousel () {
     const [carrousel_images, setImages] = useState([]);

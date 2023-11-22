@@ -9,7 +9,7 @@
         "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
         "price": 55.00,
         "img": 7,
-        "description" : "0"
+        "description" : "La camiseta de ciclismo 'The Vélodrome' es la camiseta de edición limitada que llevan nuestros ciclistas durante el Tour de Francia 2023. Nuestra nueva camiseta trata de cumplir un sueño representado en una constelación en la camiseta. #Rideyourdreams."
     },
     {
         "id": 2,
@@ -21,7 +21,7 @@
         "size": { "1" : "S" , "2" : "M" , "3" : "L", "4" : "XL"},
         "price": 45.00,
         "img": 5,
-        "description" : "0"
+        "description" : "El maillot hace referencia a la historia de Blanco Pro Cycling, fundada hace diez años. Una barra en azul, verde, blanco, amarillo y negro resalta la historia del equipo holandés con Blanco, Belkin, Team LottoNL-Jumbo y Team Jumbo-Visma, así como una insignia en la parte posterior. El nuevo atuendo todavía está dominado en gran medida por su distintivo amarillo."
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@
         "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
         "price": 60.00,
         "img": 6,
-        "description" : "0"
+        "description" : "¡Pide ahora el maillot oficial de líder del Tour de Francia con estampado del Team Jumbo-Visma! Imagínate a ti mismo como un portador de maillot amarillo en el Tour, al igual que Jonas. Se trata del 'Maillot amarillo' premium del Tour 2023 con las mismas propiedades aerodinámicas y ajuste ceñido que el maillot que lleva Jonas Vingegaard. El maillot de ciclismo está confeccionado con materiales ecológicos y con especial atención a los detalles. Un bonito detalle de la camiseta es el parche de silicona en la parte inferior izquierda del maillot que explica la inspiración detrás de todos los maillots de líder del Tour de Francia. Le maillot est le Trophee porque en el Tour el maillot de líder es el verdadero trofeo."
     },
     {
         "id": 4,
@@ -45,7 +45,7 @@
         "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
         "price": 52.00,
         "img": 7,
-        "description" : "0"
+        "description" : "El maillot hace referencia a la historia de Blanco Pro Cycling, fundada hace diez años. Una barra en azul, verde, blanco, amarillo y negro resalta la historia del equipo holandés con Blanco, Belkin, Team LottoNL-Jumbo y Team Jumbo-Visma, así como una insignia en la parte posterior. El nuevo atuendo todavía está dominado en gran medida por su distintivo amarillo."
     },
     {
         "id": 5,
@@ -57,7 +57,7 @@
         "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
         "price": 52.00,
         "img": 4,
-        "description" : "0"
+        "description" : "Para lograr un buen rendimiento, es importante contar con los materiales adecuados. Los pantalones cortos de ciclismo con una buena almohadilla son muy importantes para los ciclistas. De lo contrario, pronto tendrá problemas con sus glúteos. Esto puede afectar su rendimiento. Es por eso que hay un culotte especial Team Jumbo-Visma para mujer. Con esto, te sientas cómodamente en tu bicicleta. - Kraak de ámbar"
     },
     {
         "id": 6,
@@ -67,8 +67,9 @@
         "gender": "men",
         "type": "culotte",
         "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
-        "price": 52.00,
-        "img": 4
+        "price": 59.50,
+        "img": 4,
+        "description": "Durante una etapa larga, a veces paso hasta cinco horas sobre la bicicleta. Como una especie de máquina, dejo que mis piernas hagan el trabajo, siguen moliendo. Eso solo es posible si me siento cómodamente en mi bicicleta. Por lo tanto, los pantalones cortos de ciclismo con una buena almohadilla son muy importantes. La gamuza me permite sentarme cómodamente en mi sillín y dejar que mis piernas hagan el trabajo. - Koen Bouwman"
     },
     {
         "id": 7,
@@ -80,7 +81,7 @@
         "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
         "price": 45.00,
         "img": 5,
-        "description" : "0"
+        "description" : "El maillot hace referencia a la historia de Blanco Pro Cycling, fundada hace diez años. Una barra en azul, verde, blanco, amarillo y negro resalta la historia del equipo holandés con Blanco, Belkin, Team LottoNL-Jumbo y Team Jumbo-Visma, así como una insignia en la parte posterior. El nuevo atuendo todavía está dominado en gran medida por su distintivo amarillo."
     },
     {
         "id": 9,
@@ -92,7 +93,7 @@
         "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
         "price": 55.00,
         "img": 7,
-        "description" : "0"
+        "description" : "La camiseta de ciclismo 'The Vélodrome' es la camiseta de edición limitada que llevan nuestros ciclistas durante el Tour de Francia 2023. Nuestra nueva camiseta trata de cumplir un sueño representado en una constelación en la camiseta. #Rideyourdreams."
     },
     {
         "id": 10,
@@ -104,7 +105,7 @@
         "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
         "price": 75.00,
         "img": 7,
-        "description" : "0"
+        "description" : "Wout van Aert se aseguró el maillot del campeonato belga de contrarreloj por 3ª vez al vencer a la competencia por 50 segundos en un recorrido muy mojado en Herzele. Wout van Aert correrá con este maillot de campeón en la contrarreloj del Tour de Francia."
     },
     {
         "id": 11,
@@ -127,7 +128,43 @@
         "type": "t-shirt",
         "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
         "price": 40.00,
-        "img": 1,
+        "img": 4,
         "description" : "El ActiveCotton Crop es tu opción versátil, ya que combina un 80 % de algodón peinado suave con un 20 % de poliéster para crear una prenda que se convertirá en tu favorita. Ya sea que estés recorriendo los senderos, el pavimento, el gimnasio o la oficina, esta camiseta promete comodidad, estilo y mucha diversión. No es solo una camiseta."
+    },
+    {
+        "id": 13,
+        "item": "Camiseta Dry SS para mujer - Violeta",
+        "brand": "black_sheep",
+        "name": "t-shirt_violet",
+        "gender": "women",
+        "type": "t-shirt",
+        "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
+        "price": 60.00,
+        "img": 4,
+        "description" : "El ActiveCotton Crop es tu opción versátil, ya que combina un 80 % de algodón peinado suave con un 20 % de poliéster para crear una prenda que se convertirá en tu favorita. Ya sea que estés recorriendo los senderos, el pavimento, el gimnasio o la oficina, esta camiseta promete comodidad, estilo y mucha diversión. No es solo una camiseta."
+    },
+    {
+        "id": 14,
+        "item": "Mallas Flex para Mujer - Negro",
+        "brand": "black_sheep",
+        "name": "flex_tigths",
+        "gender": "women",
+        "type": "tigths",
+        "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
+        "price": 65.00,
+        "img": 6,
+        "description" : "Las mallas Flex Full son el epítome del lujo suave, el rendimiento versátil y la confianza genuina. Diseñado con tejido FlexSupport, tendrás una cobertura completa que te permitirá agacharte, hacer un banco o encuadernarlo. Las mallas flexibles ofrecen soporte profundo en la cintura, paneles favorecedores y bolsillos dobles para mayor practicidad."
+    },
+    {
+        "id": 15,
+        "item": "Camiseta Dry LS para hombre - Negro",
+        "brand": "black_sheep",
+        "name": "t-shirt_dry_black",
+        "gender": "men",
+        "type": "t-shirt",
+        "size": { "1" : "S" , "2" : "M" ,"3" : "L" , "4" : "XL"},
+        "price": 60.00,
+        "img": 4,
+        "description" : "Experimenta la máxima sequedad incluso en las sesiones más sudorosas con nuestra camiseta Dry LS, confeccionada con el tejido WaffleKnit. La camiseta Dry LS promete no solo un ajuste hermoso, sino también una comodidad inigualable, gracias a características como las aberturas laterales y las costuras overlock. Perfecto para correr o cualquier actividad de mucho sudor, es una prenda básica para cualquier armario activo."
     }
 ]
